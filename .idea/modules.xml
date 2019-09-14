@@ -22,6 +22,16 @@
       <module fileurl="file://$PROJECT_DIR$/libraries/navigation/navigation.iml" filepath="$PROJECT_DIR$/libraries/navigation/navigation.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/recycler-adapter/recycler-adapter.iml" filepath="$PROJECT_DIR$/libraries/recycler-adapter/recycler-adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/shuttle.iml" filepath="$PROJECT_DIR$/shuttle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/test-app.iml" filepath="$PROJECT_DIR$/app/test-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildSrc/test-buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/test-buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/test-libraries.iml" filepath="$PROJECT_DIR$/libraries/test-libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/aesthetic/test-libraries-aesthetic.iml" filepath="$PROJECT_DIR$/libraries/aesthetic/test-libraries-aesthetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/ccl/test-libraries-ccl.iml" filepath="$PROJECT_DIR$/libraries/ccl/test-libraries-ccl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/glidepalette/test-libraries-glidepalette.iml" filepath="$PROJECT_DIR$/libraries/glidepalette/test-libraries-glidepalette.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/multisheetview/test-libraries-multisheetview.iml" filepath="$PROJECT_DIR$/libraries/multisheetview/test-libraries-multisheetview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/navigation/test-libraries-navigation.iml" filepath="$PROJECT_DIR$/libraries/navigation/test-libraries-navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/recycler-adapter/test-libraries-recycler-adapter.iml" filepath="$PROJECT_DIR$/libraries/recycler-adapter/test-libraries-recycler-adapter.iml" />
     </modules>
   </component>
 </project>
