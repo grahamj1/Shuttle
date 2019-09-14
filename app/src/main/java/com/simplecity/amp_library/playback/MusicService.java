@@ -57,6 +57,7 @@ public class MusicService extends MediaBrowserServiceCompat {
         int NONE = 0;
         int FOREGROUND = 1;
         int BACKGROUND = 2;
+        //test
     }
 
     private static final String TAG = "MusicService";
